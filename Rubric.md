@@ -49,6 +49,7 @@ software.
 - Will the vendor use its data to advertise to its users?
 - Does the vendor maintain a perpetual license to use your data? (For example, some social media platforms do this.)
 - Does the vendor store or process data in a different nation? Which one(s)? Which privacy legislation is it governed by?
+- Will your data be used to train a neural network that will be shared with other customers?
 
 ### Reliability
 
@@ -74,6 +75,7 @@ that may not behave in a way that is in line with your own values.
 - Has the vendor been used to undermine a free and fair election anywhere in the world?
 - Has the vendor been used in a genocide, war, or otherwise as a part of intentional loss of human life?
 - Is this vendor involved in forced deportations, surveillance, or prosecutions for seeking reproductive healthcare?
+- Has the vendor used pirated content as part of its work, e.g. to train a neural network?
 
 ## Cost
 
