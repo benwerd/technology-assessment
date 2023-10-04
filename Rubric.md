@@ -37,7 +37,7 @@ software.
 ### Security
 
 - Does the team have a published security standard? For example, have they undertaken a [SOC 2 audit](https://en.wikipedia.org/wiki/System_and_Organization_Controls)? Do they undergo regular security scans and/or penetration tests?
-- Have there been any known hacks or breaches? (Search for news stories and check Wikipedia.)
+- Have there been any known hacks or breaches?
 - Have there been disclosures about the team's work that suggests they might be insecure? (For example, have there been whisteblowers on social media or news stories about the cavalier culture of the team?)
 - If this is an online service, does it allow you to create individual user accounts for each member of the team who will use it, rather than a single account for the whole team?
 
