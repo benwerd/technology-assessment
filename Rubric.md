@@ -1,0 +1,118 @@
+# Technology assessment rubric
+
+This is a way to assess software you might be thinking of using. It works for
+software libraries, cloud platforms, online services, etc: any software you
+use to conduct your business.
+
+There is no panacea.  There is no way to know some of these answers for sure - 
+but an intentional web, news, and social media search will help you find obvious 
+red flags. For vendors that become an integral part of your organization's 
+processes, it's a good idea to re-evaluate these questions at least annually.
+
+Ideally, every team who buys its own software should be able to run an assessment
+on their vendors ahead of time. This isn't something that should be left to
+a technology or IT team alone, although they can always be used to *help* answer
+some of these questions as required.
+
+## Vendor selection
+
+### The problem
+
+These questions should be answered by the people who will actually use the
+software.
+
+- What does this software do?
+- What real problem does it solve for your organization?
+- How do you know it will serve this purpose well?
+- Does it work with software and hardware that you already use, or does it require use of a new technology? (For example, does it require an operating system you don't use? If it's a software library, is it written in a programming language your team is not already using?)
+- Why is it important that you use it now?
+
+### Alternatives
+
+- What are the _formal_ alternatives to this vendor? (i.e., who else is offering a product that solves this problem?)
+- What are the _informal_ alternatives to this vendor? (What else could you do to solve the problem other than a direct technology solution?)
+
+## Safety
+
+### Security
+
+- Does the team have a published security standard? For example, have they undertaken a [SOC 2 audit](https://en.wikipedia.org/wiki/System_and_Organization_Controls)? Do they undergo regular security scans and/or penetration tests?
+- Have there been any known hacks or breaches? (Search for news stories and check Wikipedia.)
+- Have there been disclosures about the team's work that suggests they might be insecure? (For example, have there been whisteblowers on social media or news stories about the cavalier culture of the team?)
+
+### Privacy
+
+- Does the software have a published privacy policy? Will you be notified of changes ahead of time?
+- What data does the vendor gather about its use? Are you even able to determine this?
+- Does the vendor share information with third parties? If so, who?
+- Will the vendor use its data to advertise to its users?
+- Does the vendor maintain a perpetual license to use your data? (For example, some social media platforms do this.)
+- Does the vendor store or process data in a different nation? Which one(s)? Which privacy legislation is it governed by?
+
+### Reliability
+
+- Is it known to be reliable and bug-free? 
+- If it's an online service, does it publish uptime statistics?
+
+## Business freedom
+
+- If this software captures data, how easy is it to transport that data to a different vendor whenever you choose?
+- To what extent does using this software tether your organization's strategy to the vendor's business policies?
+
+## Values
+
+What are the values of the team that has produced this software? This section 
+is intended to help avoid reputational and team safety risks driven by vendors
+that may not behave in a way that is in line with your own values.
+
+- Is the vendor's team diverse and inclusive?
+- Does the vendor work with hate groups, or has its leadership endorsed them?
+- Has the team's leadership endorsed the erosion of civil rights?
+- Does the vendor have an environmental policy, or has it taken concrete steps to reduce its environmental footprint?
+- Has the vendor been used to undermine a free and fair election anywhere in the world?
+- Has the vendor been used in a genocide, war, or otherwise as a part of intentional loss of human life?
+- Is this vendor involved in forced deportations, surveillance, or prosecutions for seeking reproductive healthcare?
+
+## Cost
+
+- What is the up-front and ongoing price of this product?
+- What is the impact of using this product on your team? (e.g., setup time, time spent on maintenance, requirement to buy other products / services, need for training, other resource use.)
+
+## Risk
+
+Based on the answers above and your knowledge of the software team and its
+business model, consider the risk to your organization.
+
+How might using the software adversely affect your organization? This is a 
+common framework for figuring out what the biggest issues might be and how
+you would deal with them if they arose.
+
+Brainstorm the worst things that could happen - a data breach, or the vendor
+going out of business - and roughly rate the *likelihood* of this event, and
+the *impact* on your organization if it did happen. Multiple those together
+and you have the *risk factor* of that event.
+
+Try to describe at least 5 risks, and list them in a table as follows:
+
+|Event            |Likelihood (1-5)|Impact (1-5)|Risk factor (likelihood x impact)|
+|-----------------|----------------|------------|---------------------------------|
+|Hacked           |1               |5           |5                                |
+|Sunsetting       |2               |3           |6                                |
+
+### Mitigations and Contingencies
+
+For the top 3-5 risks as ordered by risk factor, write bullet points for how
+your organization could reduce the impact (i.e., what preventitive steps could
+be taken?) and what your organization would need to do if it *did* happen.
+
+## Go / No-Go
+
+Based on your answers to the above, do you think you should progress with acquisition?
+Choose from:
+
+- Strong No
+- Lean No
+- Lean Yes
+- Strong Yes
+
+Explain why you chose this answer.
