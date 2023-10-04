@@ -83,6 +83,8 @@ that may not behave in a way that is in line with your own values.
 - Has the vendor been used in a genocide, war, or otherwise as a part of intentional loss of human life?
 - Is this vendor involved in forced deportations, surveillance, or prosecutions for seeking reproductive healthcare?
 - Has the vendor used pirated content as part of its work, e.g. to train a neural network?
+- Has the vendor ever engaged in union-busting?
+- Are there public reports or is there whistleblowing around treatment of its workers? (Has it ever been sued for wage discrimination, for example?)
 
 ## Cost
 
