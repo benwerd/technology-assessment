@@ -32,6 +32,12 @@ software.
 - What are the _formal_ alternatives to this vendor? (i.e., who else is offering a product that solves this problem?)
 - What are the _informal_ alternatives to this vendor? (What else could you do to solve the problem other than a direct technology solution?)
 
+### Suitability
+
+- If the software has a user interface, is it accessible to users with disabilities? (For example, is it ADA and WCAG compliant?)
+- Does it comply with any relevant regulations for your location? (For example, GDPR?)
+- Does it comply with any relevant regulations for your industry?
+
 ## Safety
 
 ### Security
@@ -61,6 +67,7 @@ software.
 - If this software captures data, how easy is it to transport that data to a different vendor whenever you choose?
 - To what extent does using this software tether your organization's strategy to the vendor's business policies?
 - Does this software depend on a third-party login (e.g., a Google account)?
+- Does it integrate with other software you use?
 
 ## Values
 
