@@ -85,9 +85,8 @@ that may not behave in a way that is in line with your own values.
 Based on the answers above and your knowledge of the software team and its
 business model, consider the risk to your organization.
 
-How might using the software adversely affect your organization? This is a 
-common framework for figuring out what the biggest issues might be and how
-you would deal with them if they arose.
+This is a  common framework for figuring out what the biggest issues might be 
+and how you would deal with them if they arose.
 
 Brainstorm the worst things that could happen - a data breach, or the vendor
 going out of business - and roughly rate the *likelihood* of this event, and
