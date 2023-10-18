@@ -23,6 +23,11 @@ software.
 
 - What does this software do?
 - What real problem does it solve for your organization?
+- What are the costs your organization incurs because of the problem? Can you quantify the costs in measurable terms, like:
+  - Extra development staff time to perform workarounds
+  - Additional customer support tickets
+  - Lost revenue due to delays in shipping product
+  - Warranty claims due to product defects
 - How do you know it will serve this purpose well?
 - Does it work with software and hardware that you already use, or does it require use of a new technology? (For example, does it require an operating system you don't use? If it's a software library, is it written in a programming language your team is not already using?)
 - Why is it important that you use it now?
@@ -31,6 +36,7 @@ software.
 
 - What are the _formal_ alternatives to this vendor? (i.e., who else is offering a product that solves this problem?)
 - What are the _informal_ alternatives to this vendor? (What else could you do to solve the problem other than a direct technology solution?)
+- Why did you select this vendor over the available formal and informal alternatives?
 
 ### Suitability
 
@@ -42,9 +48,9 @@ software.
 
 ### Security
 
-- Does the team have a published security standard? For example, have they undertaken a [SOC 2 audit](https://en.wikipedia.org/wiki/System_and_Organization_Controls)? Do they undergo regular security scans and/or penetration tests?
+- Does the vendor have a published security standard? For example, have they undertaken a [SOC 2 audit](https://en.wikipedia.org/wiki/System_and_Organization_Controls)? Do they undergo regular security scans and/or penetration tests?
 - Have there been any known hacks or breaches?
-- Have there been disclosures about the team's work that suggests they might be insecure? (For example, have there been whisteblowers on social media or news stories about the cavalier culture of the team?)
+- Have there been disclosures about the vendor's work that suggests they might be insecure? (For example, have there been whisteblowers on social media or news stories about the cavalier culture of the vendor?)
 - If this is an online service, does it allow you to create individual user accounts for each member of the team who will use it, rather than a single account for the whole team?
 
 ### Privacy
@@ -59,7 +65,7 @@ software.
 
 ### Reliability
 
-- Is it known to be reliable and bug-free? 
+- What data is available to show that the software is reliable and bug-free? 
 - If it's an online service, does it publish uptime statistics?
 
 ## Business freedom
@@ -71,7 +77,7 @@ software.
 
 ## Values
 
-What are the values of the team that has produced this software? This section 
+What are the values of the vendor that has produced this software? This section 
 is intended to help avoid reputational and team safety risks driven by vendors
 that may not behave in a way that is in line with your own values.
 
@@ -89,6 +95,9 @@ that may not behave in a way that is in line with your own values.
 ## Cost
 
 - What is the up-front and ongoing price of this product?
+- Is the total cost of acquiring and using this product greater or less than the cost of the problem noted above?
+  - If greater, how will the additional cost be covered?
+  - If less, how will your team utilize the savings?
 - What is the impact of using this product on your team? (e.g., setup time, time spent on maintenance, requirement to buy other products / services, need for training, other resource use.)
 
 ## Risk
@@ -114,7 +123,7 @@ Try to describe at least 5 risks, and list them in a table as follows:
 ### Mitigations and Contingencies
 
 For the top 3-5 risks as ordered by risk factor, write bullet points for how
-your organization could reduce the impact (i.e., what preventitive steps could
+your organization could reduce the impact (i.e., what preventative steps could
 be taken?) and what your organization would need to do if it *did* happen.
 
 ## Go / No-Go
