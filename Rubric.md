@@ -83,7 +83,7 @@ that may not behave in a way that is in line with your own values.
 
 - Is the vendor's team diverse and inclusive?
 - Does the vendor work with hate groups, or has its leadership endorsed them?
-- Has the team's leadership endorsed the erosion of civil rights?
+- Has the team's leadership endorsed an erosion of civil rights, for example voting rights?
 - Does the vendor have an environmental policy, or has it taken concrete steps to reduce its environmental footprint?
 - Has the vendor been used to undermine a free and fair election anywhere in the world?
 - Has the vendor been used in a genocide, war, or otherwise as a part of intentional loss of human life?
