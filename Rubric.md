@@ -74,6 +74,8 @@ software.
 - To what extent does using this software tether your organization's strategy to the vendor's business policies?
 - Does this software depend on a third-party login (e.g., a Google account)?
 - Does it integrate with other software you use?
+- Does the software adhere to open standards or provide APIs to facilitate integration?
+- Can it integrate with emerging technologies that might be adopted in the future?
 
 ## Values
 
