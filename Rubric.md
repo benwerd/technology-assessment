@@ -102,6 +102,8 @@ that may not behave in a way that is in line with your own values.
 - Does the vendor offer training? For what price?
 - Is third party documentation and training available?
 - Is there an ecosystem of service providers surrounding this product?
+- What is the quality of vendor support? Are support tickets resolved in a timely manner?
+- What is the cost and availability of dedicated support tiers?
 
 ## Cost
 
