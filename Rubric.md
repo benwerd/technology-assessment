@@ -51,6 +51,7 @@ software.
 - Does the vendor have a published security standard? For example, have they undertaken a [SOC 2 audit](https://en.wikipedia.org/wiki/System_and_Organization_Controls)? Do they undergo regular security scans and/or penetration tests?
 - Have there been any known hacks or breaches?
 - Have there been disclosures about the vendor's work that suggests they might be insecure? (For example, have there been whisteblowers on social media or news stories about the cavalier culture of the vendor?)
+- Are vulnerability disclosures handled responsibly (for example, through a public disclosure program)?
 - If this is an online service, does it allow you to create individual user accounts for each member of the team who will use it, rather than a single account for the whole team?
 - Does it integrate with your SSO provider and/or offer MFA?
 
