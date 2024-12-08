@@ -92,6 +92,14 @@ that may not behave in a way that is in line with your own values.
 - Has the vendor ever engaged in union-busting?
 - Are there public reports or is there whistleblowing around treatment of its workers? (Has it ever been sued for wage discrimination, for example?)
 
+## Documentation, training, and ecosystem
+
+- Does the vendor offer comprehensive documentation?
+- Is the documentation accessible by the members of your team who will use or gain from your product?
+- Does the vendor offer training? For what price?
+- Is third party documentation and training available?
+- Is there an ecosystem of service providers surrounding this product?
+
 ## Cost
 
 - What is the up-front and ongoing price of this product?
