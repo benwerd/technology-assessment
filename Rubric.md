@@ -52,6 +52,7 @@ software.
 - Have there been any known hacks or breaches?
 - Have there been disclosures about the vendor's work that suggests they might be insecure? (For example, have there been whisteblowers on social media or news stories about the cavalier culture of the vendor?)
 - If this is an online service, does it allow you to create individual user accounts for each member of the team who will use it, rather than a single account for the whole team?
+- Does it integrate with your SSO provider and/or offer MFA?
 
 ### Privacy
 
